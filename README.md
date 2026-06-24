@@ -7,6 +7,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
