@@ -10,6 +10,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,13 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
