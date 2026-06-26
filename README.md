@@ -31,6 +31,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +55,8 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
