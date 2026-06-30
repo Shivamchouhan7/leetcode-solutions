@@ -6,7 +6,7 @@ public:
         int l=0;
         for(int r=0;r<nums.size();r++){
             sum+=nums[r];
-            while(sum*(r-l+1LL)>=k){
+            while(sum*(r-l+1)>=k){
                 sum-=nums[l];
                 l++;
             }
