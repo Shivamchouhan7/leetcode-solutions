@@ -9,6 +9,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0001-two-sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -60,6 +61,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
