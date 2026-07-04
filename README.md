@@ -11,6 +11,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -22,6 +23,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -67,6 +69,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Simulation
