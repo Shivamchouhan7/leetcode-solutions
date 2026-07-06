@@ -7,6 +7,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -100,4 +102,8 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
