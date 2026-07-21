@@ -1,9 +1,9 @@
 class Solution {
 public:
-    vector<string> validpair(int n, int l,int r,string &comb,vector<string> &str){
+    void validpair(int n, int l,int r,string &comb,vector<string> &str){
         if(l==n && r==n){
             str.push_back(comb);
-            return str;
+            return ;
         }
         if(l<n){
             comb+='(';
@@ -15,13 +15,11 @@ public:
             validpair(n,l,r+1,comb,str);
             comb.pop_back();
         }
-        return str;
     }
     vector<string> generateParenthesis(int n) {
         string comb="";
-        vector<string> st;
         vector<string> ans;
-        ans=validpair(n,0,0,comb,st);
+        validpair(n,0,0,comb,ans);
         return ans;
     }
 };
