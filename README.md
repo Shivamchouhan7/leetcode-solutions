@@ -55,6 +55,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0125-valid-palindrome](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0804-unique-morse-code-words](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1859-sorting-the-sentence](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -95,6 +96,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
