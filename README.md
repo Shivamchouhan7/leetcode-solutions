@@ -51,6 +51,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0012-integer-to-roman](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0804-unique-morse-code-words](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
@@ -148,4 +149,12 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
