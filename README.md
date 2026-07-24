@@ -13,6 +13,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -121,6 +122,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
