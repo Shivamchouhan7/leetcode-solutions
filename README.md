@@ -11,6 +11,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -168,4 +169,5 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
