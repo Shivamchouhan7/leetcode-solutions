@@ -21,6 +21,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -42,6 +43,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0242-valid-anagram](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
