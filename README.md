@@ -14,6 +14,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0040-combination-sum-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -142,6 +143,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
