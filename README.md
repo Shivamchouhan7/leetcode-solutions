@@ -8,6 +8,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | ------- |
 | [0001-two-sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -108,6 +110,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0242-valid-anagram) |
