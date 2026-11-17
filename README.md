@@ -25,6 +25,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0219-contains-duplicate-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,6 +104,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0125-valid-palindrome](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
