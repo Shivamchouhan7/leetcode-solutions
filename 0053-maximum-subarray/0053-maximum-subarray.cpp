@@ -6,8 +6,11 @@ public:
         for(int i=0;i<nums.size();i++){
             currsum+=nums[i];
             maxsum=max(currsum,maxsum);
-            if(currsum<0) currsum=0;
+            if(currsum<0){
+                currsum=0;
+            }
         }
+
         return maxsum;
     }
 };
