@@ -77,6 +77,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0804-unique-morse-code-words](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +109,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0141-linked-list-cycle](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
