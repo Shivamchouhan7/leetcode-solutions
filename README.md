@@ -22,6 +22,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -130,6 +132,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | ------- |
 | [0015-3sum](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -164,6 +167,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -171,6 +175,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +220,7 @@ Comprehensive LeetCode solutions covering DSA, SQL, JavaScript, Database, and ot
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivamchouhan7/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Enumeration
 |  |
